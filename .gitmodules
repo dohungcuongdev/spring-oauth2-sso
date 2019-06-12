@@ -1,0 +1,6 @@
+[submodule "spring-oauth2-sso-server"]
+	path = spring-oauth2-sso-server
+	url = https://github.com/dohungcuongdev/spring-oauth2-sso-server/
+[submodule "spring-oauth2-sso-ui"]
+	path = spring-oauth2-sso-ui
+	url = https://github.com/dohungcuongdev/spring-oauth2-sso-ui
